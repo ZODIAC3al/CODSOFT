@@ -1,8 +1,23 @@
-# React + Vite
+# Quiz Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains the code for a quiz application built using only HTML and CSS. Users can take quizzes, see their results, and view correct answers for questions they answered incorrectly.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Quiz Taking**: Users can take quizzes composed of multiple-choice questions.
+- **Result Display**: After completing a quiz, users can see their total score and percentage.
+- **Correction**: For incorrectly answered questions, users can view the correct answers.
+
+## Technologies Used
+
+- **Frontend**:
+  - HTML
+  - React js
+  - CSS (styling using CSS only)
+
+## Setup Instructions
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/ZODIAC3al/CODSOFT/main/Quiz-App
+   cd quiz-app
