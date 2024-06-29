@@ -27,5 +27,5 @@ This repository contains the code for a job portal web application developed usi
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/job-portal.git
+   git clone [https://github.com/yourusername/job-portal.git](https://github.com/ZODIAC3al/CODSOFT/edit/main/Job%20Board)
    cd job-portal
