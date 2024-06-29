@@ -2,6 +2,9 @@
 
 This repository contains the code for a quiz application built using only HTML and CSS. Users can take quizzes, see their results, and view correct answers for questions they answered incorrectly.
 
+## Live Demo
+
+Check out the live demo: [Codsoft Quiz App](https://codsoft-quiz-app.netlify.app/)
 ## Features
 
 - **Quiz Taking**: Users can take quizzes composed of multiple-choice questions.
