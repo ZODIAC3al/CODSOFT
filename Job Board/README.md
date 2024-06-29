@@ -2,6 +2,10 @@
 
 This repository contains the code for a job portal web application developed using Firebase for managing job cards and filtering based on job type, experience, location, and job role.
 
+## Live Demo
+
+Check out the live demo: [Codsoft Job Portal](https://codsoft-job-portal.netlify.app/)
+
 ## Features
 
 - **Firebase Integration**: Utilizes Firebase for real-time database management and authentication.
